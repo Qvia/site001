@@ -1,0 +1,31 @@
+/*header*/
+#kategori {
+    border:8px solid black;
+    border-radius: 10px;
+    margin-top:200px;
+    margin-left:20px;
+    float: left;
+    width: 250px;
+    height: 500px;
+    background-color:wheat; 
+
+}
+h5 {/* Kategori tablosundaki Kategori isimli baþlýk. 
+*/
+    font-size:20px;
+    text-align: center;
+    
+    font:bold;
+    
+}
+ol {/* yanýnda ki 1. yazanlarý kaldýrmasý için. */
+    list-style-type: none;
+
+}
+.cizgih5 {/* kategori baþlýðýnýn altýnda ki çizgi 'hr'*/ 
+    border:3px solid black;
+}
+.kategoriyazi li a {/*içecekler meyveler gibi linklerin rengi ve yazý büyüklüðü*/
+    font-size:20px;
+    color:green;
+}
