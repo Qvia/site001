@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=K2D" rel="stylesheet">
+    <title>Dostlarým Market</title>
+</head>
+<body>
+    <nav>
+         <div class="logo-box">
+             <a href="#" class="logo-name">
+        Dostlarým market
+    </a>
+         </div>
+         <div class="ul-links">
+           <ul>
+             <li class="nav-item">
+                    <a href="" class="nav-link leftbos">Ürünlerimiz</a>
+             </li>
+             <li class="nav-item">
+                 <a href="" class="nav-link">Þubelerimiz</a>
+             </li>
+             <li class="nav-item">
+                    <a href="" class="nav-link">Ýletiþim</a>
+             </li>
+
+           </ul>
+
+         </div>
+
+
+    </nav>
+    <header>
+        <div id="kategori">
+            <h5>Kategori</h5>
+            <hr class="cizgih5">
+            <ol class="kategoriyazi">
+                <li><a href="#">Ýçecekler</a></li>
+                <li><a href="#">Meyveler</a></li>
+                <li><a href="#">Sebzeler</a></li>
+                <li><a href="#">Et</a></li>
+                <li><a href="#">Soðuk Ýçecekler</a></li>
+                <li><a href="#">Sýcak Ýçecekler</a></li>
+                
+            </ol>
+
+        </div>
+    </header>
+
+
+
+</body>
+</html>
