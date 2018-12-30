@@ -73,27 +73,3 @@ nav{
     font-size: 20px;
     color: green ;
 }
-#urunler-items li a:hover{
-    color:red;
-}
-
-#kategori {
-    border:8px solid black;
-    border-radius: 10px;
-    margin-top:200px;
-    margin-left:20px;
-    float: left;
-    width: 250px;
-    height: 500px;
-    background-color:wheat; 
-
-}
-
-
-.kategoriyazi li a {/*içecekler meyveler gibi linklerin rengi ve yazı büyüklüğü*/
-    font-size:20px;
-    color:green;
-}
-.kategoriyazi li a:hover{
-    color: red;
-}
